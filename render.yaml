@@ -1,0 +1,22 @@
+# Render Blueprint Specification for AFTERLIGHT
+# DEV Hacktoberfest 2026: Week 4 (Ghost in the Machine)
+# Featured Category: Best Use of Render ($200) & Best Use of Gemma ($200)
+
+services:
+  - type: web
+    name: afterlight-memory-garden
+    env: node
+    region: oregon
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm run start -- -p $PORT
+    healthCheckPath: /api/ollama/status
+    envVars:
+      - key: NODE_VERSION
+        value: 20.14.0
+      - key: NEXT_TELEMETRY_DISABLED
+        value: "1"
+      - key: NEXT_PUBLIC_OLLAMA_HOST
+        value: http://127.0.0.1:11434
+      - key: NEXT_PUBLIC_DEFAULT_MODEL
+        value: gemma3:4b
