@@ -2,6 +2,7 @@
 > **A Digital Memory Garden Preserving Family Histories & Personal Stories with Open-Weight AI**  
 > *"People leave. Their stories don't have to."*
 
+[![Live Demo on Render](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://afterlight-memory-garden.onrender.com/)
 [![DEV Hacktoberfest 2026: Week 4](https://img.shields.io/badge/DEV%20Challenge-Hacktoberfest%20Week%204-f59e0b?style=for-the-badge&logo=dev.to)](https://dev.to/challenges/hacktoberfest-week4-2026-10-26)
 [![Published Article](https://img.shields.io/badge/DEV%20Article-Published-0a0a0a?style=for-the-badge&logo=dev.to)](https://dev.to/megh_shah_b6bd27d23860b05/afterlight-keeping-family-memories-alive-with-open-weight-ai-3p1g)
 [![Theme: Ghost in the Machine](https://img.shields.io/badge/Theme-Ghost%20in%20the%20Machine-ea580c?style=for-the-badge)](https://dev.to/events/82)
@@ -156,6 +157,7 @@ If a proprietary AI company goes out of business, your memory companion vanishes
 
 ## 🌐 Live Links & Verified Artifacts
 
+- **Live Application on Render:** [https://afterlight-memory-garden.onrender.com/](https://afterlight-memory-garden.onrender.com/)
 - **Published DEV Article:** [https://dev.to/megh_shah_b6bd27d23860b05/afterlight-keeping-family-memories-alive-with-open-weight-ai-3p1g](https://dev.to/megh_shah_b6bd27d23860b05/afterlight-keeping-family-memories-alive-with-open-weight-ai-3p1g)
 - **GitHub Repository:** [https://github.com/Megh-Shah-08/afterlight](https://github.com/Megh-Shah-08/afterlight)
 - **1-Click Render Blueprint:** [Deploy on Render](https://render.com/deploy?repo=https://github.com/Megh-Shah-08/afterlight)
@@ -172,7 +174,7 @@ If a proprietary AI company goes out of business, your memory companion vanishes
 
 ### Step 1: Clone and Install
 ```bash
-git clone https://github.com/your-username/afterlight.git
+git clone https://github.com/Megh-Shah-08/afterlight.git
 cd afterlight
 npm install
 ```
