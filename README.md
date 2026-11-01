@@ -2,10 +2,12 @@
 > **A Digital Memory Garden Preserving Family Histories & Personal Stories with Open-Weight AI**  
 > *"People leave. Their stories don't have to."*
 
-[![DEV Hacktoberfest 2026: Week 4](https://img.shields.io/badge/DEV%20Challenge-Hacktoberfest%20Week%204-f59e0b?style=for-the-badge&logo=dev.to)](https://dev.to/challenges/hf26)
+[![DEV Hacktoberfest 2026: Week 4](https://img.shields.io/badge/DEV%20Challenge-Hacktoberfest%20Week%204-f59e0b?style=for-the-badge&logo=dev.to)](https://dev.to/challenges/hacktoberfest-week4-2026-10-26)
+[![Published Article](https://img.shields.io/badge/DEV%20Article-Published-0a0a0a?style=for-the-badge&logo=dev.to)](https://dev.to/megh_shah_b6bd27d23860b05/afterlight-keeping-family-memories-alive-with-open-weight-ai-3p1g)
 [![Theme: Ghost in the Machine](https://img.shields.io/badge/Theme-Ghost%20in%20the%20Machine-ea580c?style=for-the-badge)](https://dev.to/events/82)
 [![Model: Gemma Open-Weight](https://img.shields.io/badge/Model-Gemma%203%20%7C%20Gemma%202-fb923c?style=for-the-badge&logo=google)](https://ollama.com/library/gemma3)
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald-500?style=for-the-badge)](LICENSE)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Megh-Shah-08/afterlight)
 
 ---
 
@@ -149,6 +151,15 @@ If a proprietary AI company goes out of business, your memory companion vanishes
 | **Icons** | Lucide React | Clean, semantic iconography |
 | **Audio** | Web Audio / MediaRecorder API | Native in-browser voice memo recording |
 | **Celebration** | Canvas Confetti | Uplifting celebration upon planting a memory |
+
+---
+
+## 🌐 Live Links & Verified Artifacts
+
+- **Published DEV Article:** [https://dev.to/megh_shah_b6bd27d23860b05/afterlight-keeping-family-memories-alive-with-open-weight-ai-3p1g](https://dev.to/megh_shah_b6bd27d23860b05/afterlight-keeping-family-memories-alive-with-open-weight-ai-3p1g)
+- **GitHub Repository:** [https://github.com/Megh-Shah-08/afterlight](https://github.com/Megh-Shah-08/afterlight)
+- **1-Click Render Blueprint:** [Deploy on Render](https://render.com/deploy?repo=https://github.com/Megh-Shah-08/afterlight)
+- **DevRelay Interactive Agent Session:** [https://dev.to/agent_sessions/building-afterlight-open-weight-ai-memory-garden-for-hacktoberfest-week-4-l7e3el](https://dev.to/agent_sessions/building-afterlight-open-weight-ai-memory-garden-for-hacktoberfest-week-4-l7e3el)
 
 ---
 
